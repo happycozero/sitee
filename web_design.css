@@ -1,0 +1,1809 @@
+/*
+	@name web_design
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 3982px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__web_design {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3982px;
+	background:rgba(255,255,255,1);
+}
+
+#bg_hero {
+	top: -100px;
+	left: -242px;
+	width: 1796px;
+	height: 951px;
+}
+
+#rectangle_3 {
+	top: 97px;
+	left: 242px;
+	width: 1440px;
+	height: 696.07px;
+}
+
+
+#ellipse_1 {
+	opacity:0.7;
+	top: 0px;
+	left: 0px;
+	width: 862px;
+	height: 844px;
+	-ms-border-radius: 431px / 422px;
+	-o-border-radius: 431px / 422px;
+	-moz-border-radius: 431px / 422px;
+	-webkit-border-radius: 431px / 422px;
+	border-radius: 431px / 422px;
+	background:rgba(145.21,163.79,174.25,1);
+}
+
+
+#ellipse_2 {
+	opacity:0.7;
+	top: 348px;
+	left: 1204px;
+	width: 592px;
+	height: 603px;
+	-ms-border-radius: 296px / 301.5px;
+	-o-border-radius: 296px / 301.5px;
+	-moz-border-radius: 296px / 301.5px;
+	-webkit-border-radius: 296px / 301.5px;
+	border-radius: 296px / 301.5px;
+	background:rgba(145.21,163.79,174.25,1);
+}
+
+#navbar {
+	top: 35px;
+	left: 70px;
+	width: 1300px;
+	height: 63px;
+}
+
+#rauliqbal {
+	top: 0px;
+	left: 0px;
+	width: 209px;
+	height: 88px;
+	overflow: hidden;
+	font-family: Pacifico;
+	font-size: 36px;
+	text-align: left;
+	letter-spacing: 2.16px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_9 {
+	top: 49px;
+	left: 786px;
+	width: 72px;
+	height: 4px;
+	background:rgba(255,255,255,1);
+}
+
+
+#about {
+	top: 13px;
+	left: 760px;
+	width: 133px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#skills {
+	top: 13px;
+	left: 900px;
+	width: 133px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 1.44px;
+	color:#FFFFFF;
+}
+
+
+#portfolio {
+	top: 13px;
+	left: 1040px;
+	width: 133px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 1.44px;
+	color:#FFFFFF;
+}
+
+
+#contact {
+	top: 13px;
+	left: 1180px;
+	width: 133px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 1.44px;
+	color:#FFFFFF;
+}
+
+#hero {
+	top: 115px;
+	left: 70px;
+	width: 1300.63px;
+	height: 629px;
+}
+#title {
+	top: 155px;
+	left: 0px;
+	width: 496px;
+	height: 249px;
+}
+
+#hello__im_rauliqbal {
+	top: 0px;
+	left: 0px;
+	width: 304px;
+	height: 50px;
+	overflow: hidden;
+	font-family: Noto Sans;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.72px;
+	color:#FFFFFF;
+}
+
+
+#ui_ux_designer {
+	top: 49px;
+	left: 0px;
+	width: 509px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 48px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 2.88px;
+	color:#FFFFFF;
+}
+
+
+#freelance_ui_ux_designer_based_in_bekasi__let_s_work_together_ {
+	top: 124px;
+	left: 0px;
+	width: 519px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#FFFFFF;
+}
+
+#frame_1 {
+	top: 202px;
+	left: 0px;
+	width: 138px;
+	height: 47px;
+}
+
+#hire_me {
+	top: 10px;
+	left: 29px;
+	width: 88px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 1.08px;
+	color:#4175F9;
+}
+
+#frame_2 {
+	top: 202px;
+	left: 170px;
+	width: 131px;
+	height: 47px;
+}
+
+#get_cv {
+	top: 10px;
+	left: 29px;
+	width: 81px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 1.08px;
+	color:#FFFFFF;
+}
+
+
+#rectangle_2 {
+	top: 98px;
+	left: 3px;
+	width: 100px;
+	height: 4px;
+	background:rgba(255,255,255,1);
+}
+
+#hero_img {
+	top: 0px;
+	left: 666px;
+	width: 634.91px;
+	height: 629px;
+}
+
+#ellipse_4 {
+	top: 42px;
+	left: 236px;
+	width: 60px;
+	height: 59.55px;
+	-ms-border-radius: 30px / 29.78px;
+	-o-border-radius: 30px / 29.78px;
+	-moz-border-radius: 30px / 29.78px;
+	-webkit-border-radius: 30px / 29.78px;
+	border-radius: 30px / 29.78px;
+	-ms-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	background:rgba(67.92,180.17,243.31,1);
+}
+
+
+#saly_13 {
+	top: 0px;
+	left: 29px;
+	width: 585px;
+	height: 629px;
+}
+
+
+#polygon_1 {
+	top: 248px;
+	left: 1px;
+	width: 80px;
+	height: 57.94px;
+}
+
+
+#polygon_2 {
+	top: 276px;
+	left: 536px;
+	width: 86.58px;
+	height: 76.13px;
+}
+
+#about_ek1 {
+	top: 784px;
+	left: 84px;
+	width: 1285px;
+	height: 483px;
+}
+#saly_10 {
+	top: 0px;
+	left: 426px;
+	width: 420px;
+	height: 462px;
+}
+
+#saly_10_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 420px;
+	height: 462px;
+}
+
+#skilss {
+	top: 47px;
+	left: 0px;
+	width: 390px;
+	height: 379px;
+}
+
+#ellipse_5 {
+	opacity:0.43000000715256;
+	top: 64px;
+	left: 73px;
+	width: 250px;
+	height: 250px;
+	-ms-border-radius: 125px / 125px;
+	-o-border-radius: 125px / 125px;
+	-moz-border-radius: 125px / 125px;
+	-webkit-border-radius: 125px / 125px;
+	border-radius: 125px / 125px;
+	background:rgba(24.15,100.34,214.62,0.43);
+}
+
+#mockup {
+	top: 29px;
+	left: 230px;
+	width: 160px;
+	height: 160px;
+}
+#frame_4 {
+	top: 0px;
+	left: 0px;
+	width: 160px;
+	height: 160px;
+}
+
+#web_design__1__1 {
+	top: 28px;
+	left: 44px;
+	width: 71.11px;
+	height: 71.11px;
+}
+
+
+#mockup_ek1 {
+	top: 108px;
+	left: 52px;
+	width: 75px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#2D2C56;
+}
+
+#user_research {
+	top: 0px;
+	left: 20px;
+	width: 140px;
+	height: 140px;
+}
+#frame_3 {
+	top: 0px;
+	left: 0px;
+	width: 140px;
+	height: 140px;
+}
+
+#research_1 {
+	top: 25.28px;
+	left: 38.89px;
+	width: 62.22px;
+	height: 62.22px;
+}
+
+
+#user_research_ek1 {
+	top: 96px;
+	left: 17px;
+	width: 114px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#2E2D56;
+}
+
+#wireframe {
+	top: 239px;
+	left: 230px;
+	width: 140px;
+	height: 140px;
+}
+#frame_6 {
+	top: 0px;
+	left: 0px;
+	width: 140px;
+	height: 140px;
+}
+
+#web_design_1 {
+	top: 25.28px;
+	left: 38.89px;
+	width: 62.22px;
+	height: 62.22px;
+}
+
+
+#wireframing {
+	top: 96px;
+	left: 24px;
+	width: 101px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#2E2D56;
+}
+
+#prototype {
+	top: 190px;
+	left: 0px;
+	width: 160px;
+	height: 160px;
+}
+#frame_5 {
+	top: 0px;
+	left: 0px;
+	width: 160px;
+	height: 160px;
+}
+
+#prototype__1__1 {
+	top: 28.89px;
+	left: 44.44px;
+	width: 71.11px;
+	height: 71.11px;
+}
+
+
+#prototype_ek1 {
+	top: 108px;
+	left: 44px;
+	width: 81px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	color:#2E2D56;
+}
+
+#about_me {
+	top: 38px;
+	left: 866px;
+	width: 419px;
+	height: 445px;
+}
+
+#about_me_ek1 {
+	top: 0px;
+	left: 3px;
+	width: 177px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	letter-spacing: 3.84px;
+	color:#4175F9;
+}
+
+
+#my_name_is_muhamad_raul_iqbal_tortor_posuere_ac_ut_consequat_semper_viverra_nam_libero_justo_laoreet_sit_amet_cursus {
+	top: 116px;
+	left: 1px;
+	width: 441px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+
+#my_name_is_muhamad_raul_iqbal_tortor_posuere_ac_ut_consequat_semper_viverra_nam_libero_justo_laoreet_sit_amet_cursus_ek1 {
+	top: 212px;
+	left: 0px;
+	width: 441px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+
+#ui_ux_designer_ek1 {
+	top: 44px;
+	left: 1px;
+	width: 359px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 2.16px;
+	color:#2D2C56;
+}
+
+
+#my_hobby {
+	top: 357px;
+	left: 3px;
+	width: 191px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#2E2D56;
+}
+
+#travel {
+	top: 412px;
+	left: 139px;
+	width: 107px;
+	height: 32px;
+}
+#transport___metro {
+	top: 0px;
+	left: 0px;
+	width: 32px;
+	height: 32px;
+}
+
+#vector {
+	top: 2.67px;
+	left: 3.76px;
+	width: 24.48px;
+	height: 26.68px;
+}
+
+
+#travel_ek1 {
+	top: 3px;
+	left: 44px;
+	width: 86px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#photo {
+	top: 412px;
+	left: 279px;
+	width: 102px;
+	height: 32px;
+}
+#multimedia___photo {
+	top: 0px;
+	left: 0px;
+	width: 32px;
+	height: 32px;
+}
+
+#vector_ek1 {
+	top: 4.67px;
+	left: 2.67px;
+	width: 26.67px;
+	height: 22.73px;
+}
+
+
+#photo_ek1 {
+	top: 3px;
+	left: 44px;
+	width: 81px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#movie {
+	top: 413px;
+	left: 3px;
+	width: 103px;
+	height: 32px;
+}
+#multimedia___clapper_board {
+	top: 0px;
+	left: 0px;
+	width: 32px;
+	height: 32px;
+}
+
+#vector_ek2 {
+	top: 2.67px;
+	left: 2.67px;
+	width: 26.67px;
+	height: 26.67px;
+}
+
+
+#movie_ek1 {
+	top: 3px;
+	left: 44px;
+	width: 82px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#service {
+	top: 1331px;
+	left: 72px;
+	width: 1296px;
+	height: 746px;
+}
+#section_title {
+	top: 0px;
+	left: 499px;
+	width: 298px;
+	height: 98px;
+}
+
+#what_i_do {
+	top: 0px;
+	left: 66px;
+	width: 175px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 3.84px;
+	color:#4175F9;
+}
+
+
+#specializing_in {
+	top: 44px;
+	left: -6px;
+	width: 321px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 2.16px;
+	color:#2E2D56;
+}
+
+#product_design {
+	top: 130px;
+	left: 0px;
+	width: 416px;
+	height: 296px;
+}
+
+#rectangle_4 {
+	top: 56px;
+	left: 0px;
+	width: 420px;
+	height: 244px;
+	border: 2px solid #6d6d6d;
+	background:rgba(255,255,255,1);
+}
+
+
+#product_design_ek1 {
+	top: 127px;
+	left: 32px;
+	width: 236.5px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#2E2D56;
+}
+
+
+#mollis_nunc_sed_id_semper_risus_in_hendrerit_gravida_rutrum_quisque_non_tellus_orci_ac {
+	top: 163px;
+	left: 32px;
+	width: 373.84px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#frame_7 {
+	top: 0px;
+	left: 32px;
+	width: 112.27px;
+	height: 112px;
+}
+
+#product_design_1 {
+	top: 24px;
+	left: 24px;
+	width: 64px;
+	height: 64px;
+}
+
+#web_design {
+	top: 127px;
+	left: 880px;
+	width: 416px;
+	height: 296px;
+}
+
+#rectangle_4_ek1 {
+	top: 56px;
+	left: 0px;
+	width: 420px;
+	height: 244px;
+	border: 2px solid #6d6d6d;
+	background:rgba(255,255,255,1);
+}
+
+
+#web_design_ek1 {
+	top: 127px;
+	left: 32px;
+	width: 236.5px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#2E2D56;
+}
+
+
+#mollis_nunc_sed_id_semper_risus_in_hendrerit_gravida_rutrum_quisque_non_tellus_orci_ac_ek1 {
+	top: 163px;
+	left: 32px;
+	width: 373.84px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#frame_7_ek1 {
+	top: 0px;
+	left: 32px;
+	width: 112.27px;
+	height: 112px;
+}
+
+#user_interface__1__1 {
+	top: 24px;
+	left: 24px;
+	width: 64px;
+	height: 64px;
+}
+
+#product_design_ek2 {
+	top: 450px;
+	left: 440px;
+	width: 416px;
+	height: 296px;
+}
+
+#rectangle_4_ek2 {
+	top: 56px;
+	left: 0px;
+	width: 420px;
+	height: 244px;
+	border: 2px solid #6d6d6d;
+	background:rgba(255,255,255,1);
+}
+
+
+#ilustration {
+	top: 127px;
+	left: 32px;
+	width: 236.5px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#2E2D56;
+}
+
+
+#mollis_nunc_sed_id_semper_risus_in_hendrerit_gravida_rutrum_quisque_non_tellus_orci_ac_ek2 {
+	top: 163px;
+	left: 32px;
+	width: 373.84px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#frame_7_ek2 {
+	top: 0px;
+	left: 32px;
+	width: 112.27px;
+	height: 112px;
+}
+
+#graphic_design_1 {
+	top: 24px;
+	left: 24px;
+	width: 64px;
+	height: 64px;
+}
+
+#product_design_ek3 {
+	top: 450px;
+	left: 880px;
+	width: 416px;
+	height: 296px;
+}
+
+#rectangle_4_ek3 {
+	top: 56px;
+	left: 0px;
+	width: 420px;
+	height: 244px;
+	border: 2px solid #6d6d6d;
+	background:rgba(255,255,255,1);
+}
+
+
+#motion {
+	top: 127px;
+	left: 32px;
+	width: 236.5px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#2E2D56;
+}
+
+
+#mollis_nunc_sed_id_semper_risus_in_hendrerit_gravida_rutrum_quisque_non_tellus_orci_ac_ek3 {
+	top: 163px;
+	left: 32px;
+	width: 373.84px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#frame_7_ek3 {
+	top: 0px;
+	left: 32px;
+	width: 112.27px;
+	height: 112px;
+}
+
+#motion_graphic_1 {
+	top: 24px;
+	left: 24px;
+	width: 64px;
+	height: 64px;
+}
+
+#app_design {
+	top: 130px;
+	left: 440px;
+	width: 416px;
+	height: 296px;
+}
+
+#rectangle_4_ek4 {
+	top: 56px;
+	left: 0px;
+	width: 420px;
+	height: 244px;
+	border: 2px solid #6d6d6d;
+	background:rgba(255,255,255,1);
+}
+
+
+#app_design_ek1 {
+	top: 127px;
+	left: 32px;
+	width: 236.5px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#2E2D56;
+}
+
+
+#mollis_nunc_sed_id_semper_risus_in_hendrerit_gravida_rutrum_quisque_non_tellus_orci_ac_ek4 {
+	top: 163px;
+	left: 32px;
+	width: 373.84px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#frame_7_ek4 {
+	top: 0px;
+	left: 32px;
+	width: 112.27px;
+	height: 112px;
+}
+
+#user_interface_1 {
+	top: 24px;
+	left: 24px;
+	width: 64px;
+	height: 64px;
+}
+
+#development {
+	top: 450px;
+	left: 0px;
+	width: 416px;
+	height: 296px;
+}
+
+#rectangle_4_ek5 {
+	top: 56px;
+	left: 0px;
+	width: 420px;
+	height: 244px;
+	border: 2px solid #6d6d6d;
+	background:rgba(255,255,255,1);
+}
+
+
+#development_ek1 {
+	top: 127px;
+	left: 32px;
+	width: 236.5px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#2E2D56;
+}
+
+
+#mollis_nunc_sed_id_semper_risus_in_hendrerit_gravida_rutrum_quisque_non_tellus_orci_ac_ek5 {
+	top: 163px;
+	left: 32px;
+	width: 373.84px;
+	height: 109px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#5F5E79;
+}
+
+#frame_7_ek5 {
+	top: 0px;
+	left: 32px;
+	width: 112.27px;
+	height: 112px;
+}
+
+#web_development_1 {
+	top: 24px;
+	left: 24px;
+	width: 64px;
+	height: 64px;
+}
+
+#my_portfolio {
+	top: 2141px;
+	left: 70px;
+	width: 1302px;
+	height: 824px;
+}
+#section_title_ek1 {
+	top: 0px;
+	left: 490px;
+	width: 320px;
+	height: 98px;
+}
+
+#my_portfolio_ek1 {
+	top: 0px;
+	left: 49px;
+	width: 231px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 3.84px;
+	color:#4175F9;
+}
+
+
+#recent_works {
+	top: 44px;
+	left: -6px;
+	width: 343px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 5.76px;
+	color:#2E2D56;
+}
+
+#btn_filter {
+	top: 122px;
+	left: 330px;
+	width: 669px;
+	height: 27px;
+}
+
+#all_projects {
+	top: 0px;
+	left: -3px;
+	width: 145px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 2.88px;
+	color:#4175FA;
+}
+
+
+#web_design_ek2 {
+	top: 0px;
+	left: 160px;
+	width: 149px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 2.88px;
+	color:#000000;
+}
+
+
+#app_design_ek2 {
+	top: 0px;
+	left: 327px;
+	width: 144px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 2.88px;
+	color:#000000;
+}
+
+
+#graphic_design {
+	top: 0px;
+	left: 489px;
+	width: 191px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: center;
+	letter-spacing: 2.88px;
+	color:#000000;
+}
+
+#list_portfo {
+	top: 181px;
+	left: 0px;
+	width: 1302px;
+	height: 566px;
+}
+
+#unsplash_7zwvnvsaafy {
+	top: 0px;
+	left: 882px;
+	width: 420px;
+	height: 271px;
+}
+
+
+#unsplash_iyanci0cyrk {
+	top: 0px;
+	left: 0px;
+	width: 420px;
+	height: 566px;
+}
+
+
+#unsplash_qc2n6rqu4vw {
+	top: 295px;
+	left: 882px;
+	width: 420px;
+	height: 271px;
+}
+
+
+#unsplash_m_hrflhgabo {
+	top: 295px;
+	left: 441px;
+	width: 420px;
+	height: 271px;
+}
+
+#card_hover {
+	top: 0px;
+	left: 441px;
+	width: 420px;
+	height: 271px;
+}
+
+#unsplash_njdwuhmay8a {
+	top: 0px;
+	left: 0px;
+	width: 420px;
+	height: 271px;
+}
+
+#frame_9 {
+	top: 143px;
+	left: 217px;
+	width: 44px;
+	height: 44px;
+}
+#shapes___heart {
+	top: 10px;
+	left: 10px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek3 {
+	top: 3.12px;
+	left: 1.99px;
+	width: 19.99px;
+	height: 17.74px;
+}
+
+#frame_8 {
+	top: 143px;
+	left: 157px;
+	width: 44px;
+	height: 44px;
+}
+#arrows___diagonal_resize {
+	top: 10px;
+	left: 10px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek4 {
+	top: 2px;
+	left: 2px;
+	width: 20px;
+	height: 20px;
+}
+
+
+#logo_design {
+	top: 91px;
+	left: 112px;
+	width: 205px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 3.84px;
+	color:#FFFFFF;
+}
+
+#frame_10 {
+	top: 771px;
+	left: 575px;
+	width: 150px;
+	height: 53px;
+}
+
+#view_all {
+	top: 10px;
+	left: 28px;
+	width: 102px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 22px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#contact_ek1 {
+	top: 3029px;
+	left: -222px;
+	width: 1592px;
+	height: 751px;
+}
+#contact_from {
+	top: 185px;
+	left: 957px;
+	width: 635px;
+	height: 421px;
+}
+#group_1 {
+	top: 0px;
+	left: 0px;
+	width: 635px;
+	height: 82px;
+}
+
+#name {
+	top: 0px;
+	left: 0px;
+	width: 103px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#your_name {
+	top: 45px;
+	left: 5px;
+	width: 122px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#919191;
+}
+
+
+#rectangle_8 {
+	top: 80px;
+	left: 0px;
+	width: 635px;
+	height: 2px;
+	background:rgba(196,196,196,1);
+}
+
+#group_2 {
+	top: 125px;
+	left: 0px;
+	width: 635px;
+	height: 82px;
+}
+
+#email {
+	top: 0px;
+	left: 0px;
+	width: 96px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#your_email {
+	top: 45px;
+	left: 5px;
+	width: 119px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#919191;
+}
+
+
+#rectangle_8_ek1 {
+	top: 80px;
+	left: 0px;
+	width: 635px;
+	height: 2px;
+	background:rgba(196,196,196,1);
+}
+
+#group_3 {
+	top: 250px;
+	left: 0px;
+	width: 635px;
+	height: 82px;
+}
+
+#message {
+	top: 0px;
+	left: 0px;
+	width: 138px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#your_message {
+	top: 45px;
+	left: 5px;
+	width: 157px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#919191;
+}
+
+
+#rectangle_8_ek2 {
+	top: 80px;
+	left: 0px;
+	width: 635px;
+	height: 2px;
+	background:rgba(196,196,196,1);
+}
+
+#frame_11 {
+	top: 364px;
+	left: 0px;
+	width: 234px;
+	height: 57px;
+}
+
+#send_message {
+	top: 12px;
+	left: 28px;
+	width: 186px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 22px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#contact_information {
+	top: 158px;
+	left: 0px;
+	width: 908px;
+	height: 593px;
+}
+#bg_img_contact {
+	top: 0px;
+	left: 0px;
+	width: 908px;
+	height: 593px;
+}
+
+#rectangle_8_ek3 {
+	top: 0px;
+	left: 222px;
+	width: 686px;
+	height: 506px;
+	background:rgba(41.05,74.9,161.5,1);
+}
+
+
+#ellipse_1_ek1 {
+	opacity:0.7;
+	top: 60px;
+	left: 0px;
+	width: 535px;
+	height: 533px;
+	-ms-border-radius: 267.5px / 266.5px;
+	-o-border-radius: 267.5px / 266.5px;
+	-moz-border-radius: 267.5px / 266.5px;
+	-webkit-border-radius: 267.5px / 266.5px;
+	border-radius: 267.5px / 266.5px;
+	background:rgba(127.96,163.76,183.9,1);
+}
+
+
+#ellipse_2_ek1 {
+	opacity:0.7;
+	top: 128px;
+	left: 563px;
+	width: 123px;
+	height: 119px;
+	-ms-border-radius: 61.5px / 59.5px;
+	-o-border-radius: 61.5px / 59.5px;
+	-moz-border-radius: 61.5px / 59.5px;
+	-webkit-border-radius: 61.5px / 59.5px;
+	border-radius: 61.5px / 59.5px;
+	background:rgba(145.21,163.79,174.25,1);
+}
+
+
+#have_some_project__or_maybe_just_want_to_say_hello__i_d_love_to_hear_from_you {
+	top: 87px;
+	left: 292px;
+	width: 566px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#FFFFFF;
+}
+
+#name_ek1 {
+	top: 171px;
+	left: 292px;
+	width: 255px;
+	height: 24px;
+}
+#users___account {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek5 {
+	top: 1.99px;
+	left: 2.06px;
+	width: 19.9px;
+	height: 20.01px;
+}
+
+
+#muhamad_raul_iqbal {
+	top: 0px;
+	left: 40px;
+	width: 238px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#FFFFFF;
+}
+
+#phone {
+	top: 231px;
+	left: 292px;
+	width: 255px;
+	height: 25px;
+}
+#communication___call {
+	top: 1px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek6 {
+	top: 2.04px;
+	left: 1.98px;
+	width: 19.93px;
+	height: 19.87px;
+}
+
+
+#__62_897_730_2988 {
+	top: 0px;
+	left: 40px;
+	width: 238px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#FFFFFF;
+}
+
+#email_ek1 {
+	top: 292px;
+	left: 292px;
+	width: 294px;
+	height: 25px;
+}
+#communication___message {
+	top: 1px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek7 {
+	top: 4px;
+	left: 2px;
+	width: 20px;
+	height: 16px;
+}
+
+
+#hgostline_gt_gmail_com {
+	top: 0px;
+	left: 40px;
+	width: 277px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 1.08px;
+	color:#FFFFFF;
+}
+
+
+#contact_information_ek1 {
+	top: 27px;
+	left: 292px;
+	width: 301px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: left;
+	letter-spacing: 1.44px;
+	color:#FFFFFF;
+}
+
+#social_link {
+	top: 404px;
+	left: 292px;
+	width: 394px;
+	height: 69.33px;
+}
+#dribbble_hover {
+	top: 0px;
+	left: 0px;
+	width: 69.33px;
+	height: 69.33px;
+}
+#dribbble {
+	top: 0px;
+	left: 0px;
+	width: 69.33px;
+	height: 69.33px;
+}
+
+#vector_ek8 {
+	top: 18px;
+	left: 18px;
+	width: 33.33px;
+	height: 33.33px;
+}
+
+#facebook {
+	top: 15px;
+	left: 119px;
+	width: 40px;
+	height: 40px;
+}
+#facebook_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 40px;
+	height: 40px;
+}
+
+#vector_ek9 {
+	top: 3.33px;
+	left: 3.33px;
+	width: 33.33px;
+	height: 33.33px;
+}
+
+#twitter {
+	top: 15px;
+	left: 243px;
+	width: 40px;
+	height: 40px;
+}
+#twitter_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 40px;
+	height: 40px;
+}
+
+#vector_ek10 {
+	top: 6.42px;
+	left: 3.33px;
+	width: 33.33px;
+	height: 27.14px;
+}
+
+#instagram {
+	top: 15px;
+	left: 354px;
+	width: 40px;
+	height: 40px;
+}
+#instagram_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 40px;
+	height: 40px;
+}
+
+#vector_ek11 {
+	top: 3.33px;
+	left: 3.33px;
+	width: 33.33px;
+	height: 33.33px;
+}
+
+#section_title_ek2 {
+	top: 0px;
+	left: 782px;
+	width: 320px;
+	height: 98px;
+}
+
+#contact_me {
+	top: 0px;
+	left: 49px;
+	width: 231px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 3.84px;
+	color:#4175F9;
+}
+
+
+#get_in_touch {
+	top: 44px;
+	left: -6px;
+	width: 343px;
+	height: 79px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+	letter-spacing: 5.76px;
+	color:#2E2D56;
+}
+
+
+#rectangle_7 {
+	top: 3832px;
+	left: -1px;
+	width: 1441px;
+	height: 150px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-222.369428354deg , rgba(41,75,161,1) 0%, rgba(17.33,1.65,197.62,0.87) 100%);
+	background: -o-linear-gradient(-222.369428354deg , rgba(41,75,161,1) 0%, rgba(17.33,1.65,197.62,0.87) 100%);
+	background: -moz-linear-gradient(-222.369428354deg , rgba(41,75,161,1) 0%, rgba(17.33,1.65,197.62,0.87) 100%);
+	background: -ms-linear-gradient(-222.369428354deg , rgba(41,75,161,1) 0%, rgba(17.33,1.65,197.62,0.87) 100%);
+	background: linear-gradient(-222.369428354deg , rgba(41,75,161,1) 0%, rgba(17.33,1.65,197.62,0.87) 100%);
+}
+
+#group_4 {
+	top: 3852px;
+	left: 542px;
+	width: 356px;
+	height: 103.8px;
+}
+
+#rauliqbal_ek1 {
+	top: 0px;
+	left: 94px;
+	width: 209px;
+	height: 88.58px;
+	overflow: hidden;
+	font-family: Pacifico;
+	font-size: 36px;
+	text-align: left;
+	letter-spacing: 2.16px;
+	color:#FFFFFF;
+}
+
+
+#copyright___2018_design_by_rauliqbal {
+	top: 80px;
+	left: -3px;
+	width: 369px;
+	height: 35.22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 0.96px;
+	color:#FFFFFF;
+}
+
+
+#line_1 {
+	top: 3763px;
+	left: 609px;
+	width: 138.01px;
+	height: 1px;
+	
+	-ms-transform:rotate(90.83deg);
+	-o-transform:rotate(90.83deg);
+	-webkit-transform:rotate(90.83deg);
+	-moz-transform:rotate(90.83deg);
+	transform:rotate(90.83deg);
+	background:#000000;
+}
+
+
+
+/* Add your custom CSS here */
